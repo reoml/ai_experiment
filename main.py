@@ -25,7 +25,7 @@ if __name__ == '__main__':
     net_name = 'net_10.pkl';
     is_data_create = False;
     lr = 0.2;
-    weight_decay=5e-4
+    weight_decay=5e-4;
     cls_loss = nn.CrossEntropyLoss(reduction='none')
     bbox_loss = nn.L1Loss(reduction='none')
     net = TinySSD(num_classes,sizes,ratios,num_anchors)
