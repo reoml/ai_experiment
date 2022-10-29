@@ -37,3 +37,4 @@ There are hyperparameters in the ```main.py```
 ## Improvement in code
 student improved the file structure to the below picture.
 ![](%E6%96%B0%E5%BB%BA%20Markdown_md_files/7151a780-576a-11ed-b4f9-798c562720d8.jpeg?v=1&type=image)
+student didn't improve the network performance.
